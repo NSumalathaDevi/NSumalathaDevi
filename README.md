@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsumalathadevi&label=Profile%20views&color=0e75b6&style=flat" alt="nsumalathadevi" /> </p>
 
-- 🌱 I’m currently learning **IOT, Embedded C, Embedded System, PCB Design**
+- 🌱 I’m currently learning **IOT,Embedded C, Embedded System, PCB Design**
 
 - 📫 How to reach me **narasapuramsumalathadevi@gmail.com**
 
