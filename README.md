@@ -19,6 +19,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsumalathadevi&" alt="nsumalathadevi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsumalathadevi&show_icons=true&locale=en" alt="nsumalathadevi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsumalathadevi&" alt="nsumalathadevi" /></p>
